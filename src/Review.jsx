@@ -1,4 +1,3 @@
-// import React from 'react'
 import people from './data'
 import { useState } from "react"
 import { FaQuoteRight, FaChevronLeft, FaChevronRight } from "react-icons/fa6";
