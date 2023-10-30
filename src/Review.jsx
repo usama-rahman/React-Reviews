@@ -49,9 +49,6 @@ export default function Review() {
                 <FaChevronRight />
             </button>
         </div>
-        {/* <button className='random-btn'>
-            suprise me
-        </button> */}
     </article>
   )
 }
